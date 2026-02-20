@@ -7,6 +7,7 @@ h4{
     font-family: "gambria";
 }
 .photo{
+    float: right;
     width: 250;
     height: 250;
 }
